@@ -1,0 +1,856 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1702526709563,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1605391087081,
+        "title": "从 IE 中导入",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1605391087081,
+            "title": "Links",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1357914233276,
+                "title": "Google",
+                "icon": "https://logo.clearbit.com/www.google.com.hk",
+                "url": "http://www.google.com.hk/"
+              },
+              {
+                "type": "link",
+                "addDate": 1357914233277,
+                "title": "百度——全球最大中文搜索引擎",
+                "icon": "https://logo.clearbit.com/www.baidu.com",
+                "url": "http://www.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1411353864164,
+                "title": "安徽省医疗服务价格项目及价格",
+                "icon": "https://logo.clearbit.com/www.chinaprice.gov.cn",
+                "url": "http://www.chinaprice.gov.cn/fgw/ProxyServlet?server=e450&url=drug/ylsf/anhui/anhui.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1624665766297,
+                "title": "我们所向往的",
+                "icon": "https://logo.clearbit.com/wmsxwd-c.men",
+                "url": "https://wmsxwd-c.men/user"
+              },
+              {
+                "type": "link",
+                "addDate": 1669987622892,
+                "title": "WiFi 传书",
+                "icon": "https://logo.clearbit.com/192.168.31.185",
+                "url": "http://192.168.31.185:12121/"
+              },
+              {
+                "type": "link",
+                "addDate": 1670332036424,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chat.openai.com",
+                "url": "https://chat.openai.com/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1684890162424,
+                "title": "InfiniCLOUD File Browser",
+                "icon": "https://logo.clearbit.com/miya.teracloud.jp",
+                "url": "https://miya.teracloud.jp/browser/"
+              },
+              {
+                "type": "link",
+                "addDate": 1688893956273,
+                "title": "新传宽频_奥运会_乒乓球_羽毛球_台球_斯诺克_自行车_足球_篮球_赛车_搏击_比赛视频_主播直播_赛程赛事_资讯",
+                "icon": "https://logo.clearbit.com/www.zhibo.tv",
+                "url": "https://www.zhibo.tv/"
+              },
+              {
+                "type": "link",
+                "addDate": 1690339036116,
+                "title": "Bard",
+                "icon": "https://logo.clearbit.com/bard.google.com",
+                "url": "https://bard.google.com/?utm_source=bard-nl&utm_medium=email&utm_campaign=bardjuly&utm_content=em2b"
+              },
+              {
+                "type": "link",
+                "addDate": 1691740757414,
+                "title": "nf.video/bPLRa",
+                "icon": "https://logo.clearbit.com/nf.video",
+                "url": "https://nf.video/bPLRa"
+              },
+              {
+                "type": "link",
+                "addDate": 1700135297850,
+                "title": "Microsoft Copilot",
+                "icon": "https://logo.clearbit.com/copilot.microsoft.com",
+                "url": "https://copilot.microsoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702709849912,
+                "title": "Nespresso",
+                "icon": "https://logo.clearbit.com/www.nespressochina.com",
+                "url": "https://www.nespressochina.com/zh/account/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1702773199416,
+                "title": "小纸条-开放纯粹的资源网站",
+                "icon": "https://logo.clearbit.com/ali.gitcafe.ink",
+                "url": "https://ali.gitcafe.ink/#rhdy"
+              },
+              {
+                "type": "link",
+                "addDate": 1702773221044,
+                "title": "猫狸盘搜 - 阿里云盘搜索神器",
+                "icon": "https://logo.clearbit.com/www.alipansou.com",
+                "url": "https://www.alipansou.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1705045023968,
+                "title": "豆包 - 你的 AI 朋友",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/2377809052418"
+              },
+              {
+                "type": "link",
+                "addDate": 1705646870399,
+                "title": "安娜的档案",
+                "icon": "https://logo.clearbit.com/zh.annas-archive.org",
+                "url": "https://zh.annas-archive.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1706412256813,
+                "title": "PayPal: 账户首页",
+                "icon": "https://logo.clearbit.com/www.paypal.com",
+                "url": "https://www.paypal.com/myaccount/summary"
+              },
+              {
+                "type": "link",
+                "addDate": 1707288771766,
+                "title": "工作台 - Dukou",
+                "icon": "https://logo.clearbit.com/dukou.to",
+                "url": "https://dukou.to/user/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1707373049105,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/detail"
+              },
+              {
+                "type": "link",
+                "addDate": 1708046541382,
+                "title": "双子座 --- Gemini",
+                "icon": "https://logo.clearbit.com/gemini.google.com",
+                "url": "https://gemini.google.com/app"
+              },
+              {
+                "type": "link",
+                "addDate": 1711020202758,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712016956138,
+                "title": "网盘小站-阿里云盘资源共享第一站",
+                "icon": "https://logo.clearbit.com/wpxz.top",
+                "url": "https://wpxz.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720863127687,
+                "title": "时光匆忙旅行者",
+                "icon": "https://logo.clearbit.com/docs.qq.com",
+                "url": "https://docs.qq.com/sheet/DZHh5UGtHdU5NYWZV?tab=000001&_t=1720862258961&u=eac8a34b4d894b0fab7c5f023ac5b20f"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1605391087082,
+            "title": "DEAL",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1357914233269,
+                "title": "什么值得买",
+                "icon": "https://logo.clearbit.com/www.smzdm.com",
+                "url": "http://www.smzdm.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1357914233269,
+                "title": "卓越亚马逊 网上购物 图书，手机，数码，家电，化妆品，钟表，首饰等在线销售",
+                "icon": "https://logo.clearbit.com/www.amazon.cn",
+                "url": "http://www.amazon.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1357914233269,
+                "title": "哇，支付宝！——生活购物就是这样简单",
+                "icon": "https://logo.clearbit.com/life.alipay.com",
+                "url": "http://life.alipay.com/?src=yy_wow_alipay_top_index"
+              },
+              {
+                "type": "link",
+                "addDate": 1365861240046,
+                "title": "amazon.com Online Shopping for Electronics, Apparel, Computers, Books, (...)",
+                "icon": "https://logo.clearbit.com/www.amazon.com",
+                "url": "http://www.amazon.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1450249174399,
+                "title": "我的货物 - 转运中国，美国购物轻松送到国内",
+                "icon": "https://logo.clearbit.com/www.uszcn.com",
+                "url": "http://www.uszcn.com/user?u=1124240455878351296"
+              },
+              {
+                "type": "link",
+                "addDate": 1480990540898,
+                "title": "转送JAPAN - 日本Amazon,乐天,Yahoo!等多数购物网站皆可使用的日本代购转寄服务",
+                "icon": "https://logo.clearbit.com/tensojapan.jshoppers.com",
+                "url": "http://tensojapan.jshoppers.com/gb/"
+              },
+              {
+                "type": "link",
+                "addDate": 1480990553532,
+                "title": "Amazon | 本, ファッション, 家電から食品まで | アマゾン",
+                "icon": "https://logo.clearbit.com/www.amazon.co.jp",
+                "url": "https://www.amazon.co.jp/ref=nav_logo"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1605391087082,
+            "title": "FORUMS",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1357914233267,
+                "title": "DreamLand",
+                "icon": "https://logo.clearbit.com/dream4ever.org",
+                "url": "https://dream4ever.org/index.php?"
+              },
+              {
+                "type": "link",
+                "addDate": 1387937271147,
+                "title": "社区 - Chiphell - 分享与交流用户体验的最佳平台 - Powered by Discuz!",
+                "icon": "https://logo.clearbit.com/www.chiphell.com",
+                "url": "http://www.chiphell.com/forum.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1486091407259,
+                "title": "V2EX",
+                "icon": "https://logo.clearbit.com/www.v2ex.com",
+                "url": "https://www.v2ex.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1592387331952,
+                "title": "精品技术论坛 - [bbs.et8.net]",
+                "icon": "https://logo.clearbit.com/bbs.et8.net",
+                "url": "https://bbs.et8.net/bbs/index.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1669969883606,
+                "title": "4D4Y",
+                "icon": "https://logo.clearbit.com/www.4d4y.com",
+                "url": "https://www.4d4y.com/forum/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712649895719,
+                "title": "ExcelHome技术论坛 - Excel教程免费学习，Excel表格交流，下载Excel函数VBA技巧培训 -",
+                "icon": "https://logo.clearbit.com/club.excelhome.net",
+                "url": "https://club.excelhome.net/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1605391087083,
+            "title": "OFFICE LINKS",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1357914233265,
+                "title": "Welcome to DXY.CN Forum - Homepage",
+                "icon": "https://logo.clearbit.com/www.dxy.cn",
+                "url": "http://www.dxy.cn/bbs/"
+              },
+              {
+                "type": "link",
+                "addDate": 1435975934359,
+                "title": "安徽省临床检验中心",
+                "icon": "https://logo.clearbit.com/www.ahccl.org",
+                "url": "http://www.ahccl.org/labMain/"
+              },
+              {
+                "type": "link",
+                "addDate": 1546935411621,
+                "title": "安徽医科大学附属巢湖医院",
+                "icon": "https://logo.clearbit.com/192.168.88.199",
+                "url": "http://192.168.88.199:7001/defaultroot/desktop.jsp"
+              },
+              {
+                "type": "link",
+                "addDate": 1714354544207,
+                "title": "金域医学-金域云检",
+                "icon": "https://logo.clearbit.com/kmc.kingmed.com.cn",
+                "url": "https://kmc.kingmed.com.cn/#/reportCenter/reportSearch?type=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1716880510124,
+                "title": "新点电子交易平台",
+                "icon": "https://logo.clearbit.com/zhongjin.etrading.cn",
+                "url": "http://zhongjin.etrading.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716949948479,
+                "title": "交易信息",
+                "icon": "https://logo.clearbit.com/zhongjin.etrading.cn",
+                "url": "http://zhongjin.etrading.cn/jyxx/002003/002003001/bussinessInfo.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1717385161184,
+                "title": "首页",
+                "icon": "https://logo.clearbit.com/crm.mytijian.com",
+                "url": "https://crm.mytijian.com/#/home/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1718582050444,
+                "title": "安徽省专业技术人员继续教育公需课培训平台",
+                "icon": "https://logo.clearbit.com/ahzj.59iedu.com",
+                "url": "https://ahzj.59iedu.com/play/study/H4sIAAAAAAAAAK2TTWvcMBCG_4vODszI-vKeCksPhRKWJvRSepClUeKNP7b-CF3S_PfKXu_aUFp86M02zzMjvZ7ZN0Pb0WeybV3UT4fSnh-bF6p_7afvt_cPqNFIwwElZnK3e2NuAj55tmMklVSpB60yb7hBVMHoPHjvNTc5OZbM9LXNF3JN6yeXuwwM5mSIEFMEwAx4qo0WXoJyMrrlbC08KGVCbqwhA2iC58iDQaMgF5GvGk9shwk7lbYPTVtNogBuMqWNIiGykGaAio4_j-fDDLGF_0ptVzT1n9qan6FRa5sjuf6vXWDSLlDEfwy2LELhbH_tcS8zzHQmZHrHBSjUoCXnQmuFCu8AotTa-ok6tvv2xl7oHJ1VKAl7teVAW8J5T65-556poq22ijZf2e65aZbf-eCo3lxqPIj-r6W-x3iGkj7WNi-jEWzZURIveKm0ocIMP55Pl7m5ZbMhk0hT-1o4aheeozTB8aA4jvzliQeA6Vd2_eCp7vfL_lyaaD3uQOqFnndAjzuAXmSLdN9sG5duyA__nMpxJB9uUDT6oqKut9UpJrBe9YQNddGvjgneBOlT7fTtbrmy2qdj36Fb5wAiHxdAe6-uV0pT1CIIYO-_Af9chRJ5BAAA/2c9080668fb8a8e8018fd212f81660b2/N591979453-240617075224776161-00/2c9080778ee13d470190237774d51d49/ChooseCourseRule/2c9080668fb8a8e8018fd212f81860b5?prevUrl=https%3A%2F%2Fahzj.59iedu.com%2Fcenter%2Fclass%2FN591979453-240617075224776161-00&orderNo=240617075223747667544259&studentNo=N591979453-240617075224776161-00&studentCourseAppraisalId=&colligationScore=5&myCourseId=e56563d0769d828116f87bfddd728bec&enableAppraisal=disable&enableCompulsoryAppraisal=false&commoditySkuId=2c9080668fb8a8e8018fd212f81c60c7&learningId=2c9080668fb8a8e8018fd212f81860b4"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1605391087084,
+            "title": "PT&SUBTITLE",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1357914233259,
+                "title": "TCCF 种子",
+                "icon": "https://logo.clearbit.com/et8.org",
+                "url": "http://et8.org/torrents.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1357914233259,
+                "title": "中文字幕下载 - 字幕下载 - 电影字幕 - 外挂字幕 - Sub of Movies",
+                "icon": "https://logo.clearbit.com/www.subom.com",
+                "url": "http://www.subom.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1435975934344,
+                "title": "射手网 - Shooter.cn - 与别人分享，别人与你分享",
+                "icon": "https://logo.clearbit.com/shooter.cn",
+                "url": "http://shooter.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1420427399622,
+                "title": "磁力链接 - BT种子磁力链接搜索引擎",
+                "icon": "https://logo.clearbit.com/cililian.org",
+                "url": "http://cililian.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1596537623401,
+                "title": "YIFY Subtitles - subtitles for YIFY movies",
+                "icon": "https://logo.clearbit.com/www.yifysubtitles.com",
+                "url": "https://www.yifysubtitles.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1605169641048,
+                "title": "PTHOME :: 种子 PT|下载|电影|蓝光电影|电影资源|最新电影|ipv4/ipv6 - Powered by NexusPHP",
+                "icon": "https://logo.clearbit.com/pthome.net",
+                "url": "https://pthome.net/torrents.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1685258405423,
+                "title": "YYeTs 人人影视|字幕组官方站",
+                "icon": "https://logo.clearbit.com/www.yysub.net",
+                "url": "https://www.yysub.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685262861885,
+                "title": "字幕库(zimuku) -- 字幕下载网站",
+                "icon": "https://logo.clearbit.com/zmk.pw",
+                "url": "https://zmk.pw/"
+              },
+              {
+                "type": "link",
+                "addDate": 1691286433343,
+                "title": "Not Found | The Pirate Bay - The world's most resilient BitTorrent site",
+                "icon": "https://logo.clearbit.com/tpb.party",
+                "url": "https://tpb.party/search"
+              },
+              {
+                "type": "link",
+                "addDate": 1695520053127,
+                "title": "聆音Club :: 种子 - Powered by NexusPHP",
+                "icon": "https://logo.clearbit.com/pt.soulvoice.club",
+                "url": "https://pt.soulvoice.club/torrents.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1715244834155,
+                "title": "TGx:Userdetails showstopper",
+                "icon": "https://logo.clearbit.com/torrentgalaxy.to",
+                "url": "https://torrentgalaxy.to/profile/showstopper/torrents"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1685783735426,
+            "title": "reads&news",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1685783678795,
+                "title": "HK, China, Asia news & opinion from SCMP’s global edition | South China Morning Post --- 来自《南华早报》全球版的香港、中国、亚洲新闻和观点 |南华早报",
+                "icon": "https://logo.clearbit.com/www.scmp.com",
+                "url": "https://www.scmp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685171309436,
+                "title": "ABC News - Breaking News, Latest News and Videos",
+                "icon": "https://logo.clearbit.com/abcnews.go.com",
+                "url": "https://abcnews.go.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685783910155,
+                "title": "Home - BBC News",
+                "icon": "https://logo.clearbit.com/www.bbc.com",
+                "url": "https://www.bbc.com/news"
+              },
+              {
+                "type": "link",
+                "addDate": 1685784041337,
+                "title": "Breaking News, Latest News and Videos | CNN",
+                "icon": "https://logo.clearbit.com/edition.cnn.com",
+                "url": "https://edition.cnn.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685784212427,
+                "title": "Reuters | Breaking International News & Views",
+                "icon": "https://logo.clearbit.com/www.reuters.com",
+                "url": "https://www.reuters.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685865973019,
+                "title": "The Economist | World News, Economics, Politics, Business & Finance --- 经济学人 |世界新闻，经济，政治，商业与金融",
+                "icon": "https://logo.clearbit.com/www.economist.com",
+                "url": "https://www.economist.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685968675435,
+                "title": "Bloomberg.com",
+                "icon": "https://logo.clearbit.com/www.bloomberg.com",
+                "url": "https://www.bloomberg.com/asia"
+              },
+              {
+                "type": "link",
+                "addDate": 1686040618364,
+                "title": "(5) News --- （5） 新闻",
+                "icon": "https://logo.clearbit.com/www.reddit.com",
+                "url": "https://www.reddit.com/r/news/"
+              },
+              {
+                "type": "link",
+                "addDate": 1686128100453,
+                "title": "MIT Technology Review --- 麻省理工学院技术评论",
+                "icon": "https://logo.clearbit.com/www.technologyreview.com",
+                "url": "https://www.technologyreview.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1686488022263,
+                "title": "Harvard Business Review - Ideas and Advice for Leaders --- 哈佛商业评论 - 给领导者的想法和建议",
+                "icon": "https://logo.clearbit.com/hbr.org",
+                "url": "https://hbr.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1686558344972,
+                "title": "Latest Medical News, Clinical Trials, Guidelines - Today on Medscape --- 最新的医学新闻，临床试验，指南 - 今天在Medscape上",
+                "icon": "https://logo.clearbit.com/www.medscape.com",
+                "url": "https://www.medscape.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1686821209411,
+                "title": "Associated Press News: Breaking News | Latest News Today --- 美联社新闻：突发新闻 |今日最新消息",
+                "icon": "https://logo.clearbit.com/apnews.com",
+                "url": "https://apnews.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1687262373633,
+                "title": "Barron's | Financial and Investment News --- 《巴伦周刊》 |金融与投资新闻",
+                "icon": "https://logo.clearbit.com/www.barrons.com",
+                "url": "https://www.barrons.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1687262699653,
+                "title": "Encyclopedia Britannica | Britannica --- 大英百科全书 |大英百科全书",
+                "icon": "https://logo.clearbit.com/www.britannica.com",
+                "url": "https://www.britannica.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1687263706765,
+                "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
+                "icon": "https://logo.clearbit.com/www.washingtonpost.com",
+                "url": "https://www.washingtonpost.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1509685275649,
+                "title": "The Wall Street Journal & Breaking News, Business, Financial and Economic News, World News and Video",
+                "icon": "https://logo.clearbit.com/www.wsj.com",
+                "url": "https://www.wsj.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1688194984521,
+                "title": "TIME | Current & Breaking News | National & World Updates --- 时间 |当前和突发新闻 |国家和世界更新",
+                "icon": "https://logo.clearbit.com/time.com",
+                "url": "https://time.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1690545969140,
+                "title": "Scientific American: Science News, Expert Analysis, Health Research - Scientific American --- 科学美国人：科学新闻，专家分析，健康研究 - 科学美国人",
+                "icon": "https://logo.clearbit.com/www.scientificamerican.com",
+                "url": "https://www.scientificamerican.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1691806832784,
+                "title": "纽约时报中文网 国际纵览",
+                "icon": "https://logo.clearbit.com/cn.nytimes.com",
+                "url": "https://cn.nytimes.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1692694108295,
+                "title": "Medical and health information --- 医疗和健康信息",
+                "icon": "https://logo.clearbit.com/www.medicalnewstoday.com",
+                "url": "https://www.medicalnewstoday.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1692694424016,
+                "title": "Medical News | Medpage Today",
+                "icon": "https://logo.clearbit.com/www.medpagetoday.com",
+                "url": "https://www.medpagetoday.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1692694789974,
+                "title": "Medical News | Medical Articles",
+                "icon": "https://logo.clearbit.com/www.news-medical.net",
+                "url": "https://www.news-medical.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693097575721,
+                "title": "12ft Ladder --- 12英尺梯子",
+                "icon": "https://logo.clearbit.com/12ft.io",
+                "url": "https://12ft.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693106976971,
+                "title": "无名图书 | 一个好看的电子书网站",
+                "icon": "https://logo.clearbit.com/www.book123.info",
+                "url": "https://www.book123.info/"
+              },
+              {
+                "type": "link",
+                "addDate": 1708047307462,
+                "title": "FT中文网 － 全球财经精粹",
+                "icon": "https://logo.clearbit.com/ftchinese.com",
+                "url": "https://ftchinese.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1708047317814,
+                "title": "观察者网",
+                "icon": "https://logo.clearbit.com/www.guancha.cn",
+                "url": "https://www.guancha.cn/?s=fwdhguan"
+              },
+              {
+                "type": "link",
+                "addDate": 1708846734108,
+                "title": "PanSci 泛科学",
+                "icon": "https://logo.clearbit.com/pansci.asia",
+                "url": "https://pansci.asia/"
+              },
+              {
+                "type": "link",
+                "addDate": 1708846791556,
+                "title": "科普主页|科普 --- Popular Science Homepage | Popular Science",
+                "icon": "https://logo.clearbit.com/www.popsci.com",
+                "url": "https://www.popsci.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1710147538109,
+                "title": "一单书 - 电子书搜索引擎工具",
+                "icon": "https://logo.clearbit.com/yidanshu.com",
+                "url": "https://yidanshu.com/en"
+              },
+              {
+                "type": "link",
+                "addDate": 1710638199156,
+                "title": "科学技术榜-微信读书",
+                "icon": "https://logo.clearbit.com/weread.qq.com",
+                "url": "https://weread.qq.com/web/category/1500000"
+              },
+              {
+                "type": "link",
+                "addDate": 1710638205857,
+                "title": "微信读书-正版书籍小说免费阅读",
+                "icon": "https://logo.clearbit.com/weread.qq.com",
+                "url": "https://weread.qq.com/web/upload"
+              },
+              {
+                "type": "link",
+                "addDate": 1711010613648,
+                "title": "Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.",
+                "icon": "https://logo.clearbit.com/zlibrary-east.se",
+                "url": "https://zlibrary-east.se/"
+              },
+              {
+                "type": "link",
+                "addDate": 1711182601453,
+                "title": "Home | AList",
+                "icon": "https://logo.clearbit.com/alist.wuhoo.net",
+                "url": "https://alist.wuhoo.net/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1357914233218,
+        "title": "Google",
+        "icon": "https://logo.clearbit.com/www.google.com.hk",
+        "url": "https://www.google.com.hk/webhp?hl=zh-CN&tab=ww"
+      },
+      {
+        "type": "link",
+        "addDate": 1652613270889,
+        "title": "Gmail",
+        "icon": "https://logo.clearbit.com/accounts.google.com",
+        "url": "https://accounts.google.com/b/0/AddMailService"
+      },
+      {
+        "type": "link",
+        "addDate": 1652613270901,
+        "title": "YouTube",
+        "icon": "https://logo.clearbit.com/youtube.com",
+        "url": "https://youtube.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1702166115362,
+        "title": "Bard",
+        "icon": "https://logo.clearbit.com/bard.google.com",
+        "url": "https://bard.google.com/chat"
+      },
+      {
+        "type": "link",
+        "addDate": 1702166133419,
+        "title": "ChatGPT",
+        "icon": "https://logo.clearbit.com/chat.openai.com",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1700530490813,
+        "title": "必应",
+        "icon": "https://logo.clearbit.com/cn.bing.com",
+        "url": "https://cn.bing.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1700610743524,
+        "title": "所有 - 滴答清单",
+        "icon": "https://logo.clearbit.com/www.dida365.com",
+        "url": "https://www.dida365.com/webapp/#q/all/tasks"
+      },
+      {
+        "type": "link",
+        "addDate": 1702254486171,
+        "title": "网易邮箱6.0版",
+        "icon": "https://logo.clearbit.com/mail.163.com",
+        "url": "https://mail.163.com/js6/main.jsp?sid=iBUOJVHeUJOhCSsdjPeeFfmvHdSiiXXK&df=mail163_letter#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D"
+      },
+      {
+        "type": "link",
+        "addDate": 1704683085630,
+        "title": "讯飞星火认知大模型-AI大语言模型-星火大模型-科大讯飞",
+        "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+        "url": "https://xinghuo.xfyun.cn/desk"
+      },
+      {
+        "type": "link",
+        "addDate": 1704769264346,
+        "title": "豆包 - 你的 AI 朋友",
+        "icon": "https://logo.clearbit.com/www.doubao.com",
+        "url": "https://www.doubao.com/chat/2171132277250?channel=baidu_sem&from_login=1"
+      },
+      {
+        "type": "link",
+        "addDate": 1708585556076,
+        "title": "待办事项列表 - Google 表格 --- To-do list - Google Sheets",
+        "icon": "https://logo.clearbit.com/docs.google.com",
+        "url": "https://docs.google.com/spreadsheets/d/1I5SvjLcqYPsMW50GbNgBc8DMhGVoJ4HhY2NvujGLaJ4/edit#gid=1386834576"
+      },
+      {
+        "type": "link",
+        "addDate": 1709628211792,
+        "title": "安徽医科大学附属巢湖医院",
+        "icon": "https://logo.clearbit.com/www.aychfy.com",
+        "url": "https://www.aychfy.com/"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1702526709563,
+    "title": "其他书签",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1699510594282,
+        "title": "万户ezOFFICE协同管理平台",
+        "icon": "https://logo.clearbit.com/172.16.88.22",
+        "url": "http://172.16.88.22:7001/defaultroot/login.jsp"
+      },
+      {
+        "type": "link",
+        "addDate": 1699863661707,
+        "title": "百度一下，你就知道",
+        "icon": "https://logo.clearbit.com/bd.mainshe.com",
+        "url": "http://bd.mainshe.com/bsm_bd"
+      },
+      {
+        "type": "link",
+        "addDate": 1700014697902,
+        "title": "扇贝编程",
+        "icon": "https://logo.clearbit.com/web.shanbay.com",
+        "url": "https://web.shanbay.com/codetime-study/home/app/courses"
+      },
+      {
+        "type": "link",
+        "addDate": 1701914860725,
+        "title": "首页 - Chiphell - 分享与交流用户体验",
+        "icon": "https://logo.clearbit.com/www.chiphell.com",
+        "url": "https://www.chiphell.com/"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1702526709563,
+    "title": "移动设备书签",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1473822782524,
+        "title": "APK Downloader [Latest] Download Directly | Chrome Extension v3 (Evozi Official)",
+        "icon": "https://logo.clearbit.com/apps.evozi.com",
+        "url": "https://apps.evozi.com/apk-downloader/"
+      },
+      {
+        "type": "link",
+        "addDate": 1478242261941,
+        "title": "Nespresso Mobile Site CN",
+        "icon": "https://logo.clearbit.com/www.nespresso.com",
+        "url": "https://www.nespresso.com/mobile/cn/zh/index"
+      },
+      {
+        "type": "link",
+        "addDate": 1522926702270,
+        "title": "我的帐户",
+        "icon": "https://logo.clearbit.com/www.nespresso.com",
+        "url": "https://www.nespresso.com/mobile/cn/zh/account"
+      },
+      {
+        "type": "link",
+        "addDate": 1567063516169,
+        "title": "咖啡胶囊 | Nespresso 中国",
+        "icon": "https://logo.clearbit.com/www.nespresso.com",
+        "url": "https://www.nespresso.com/cn/zh/order/capsules"
+      },
+      {
+        "type": "link",
+        "addDate": 1582191411078,
+        "title": "wmsxwd - 在线",
+        "icon": "https://logo.clearbit.com/tawk.to",
+        "url": "https://tawk.to/chat/5d9ddcb3db28311764d80dcb/default"
+      },
+      {
+        "type": "link",
+        "addDate": 1688531645761,
+        "title": "LITEAPKS - Free APK & Mod - Download for Android",
+        "icon": "https://logo.clearbit.com/liteapks.com",
+        "url": "https://liteapks.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1692262961279,
+        "title": "Premium Apps APK - Download Apps Mod for Android",
+        "icon": "https://logo.clearbit.com/modyolo.com",
+        "url": "https://modyolo.com/apps"
+      },
+      {
+        "type": "link",
+        "addDate": 1692263262276,
+        "title": "MODYOLO - Free MOD APK Game & Premium APP for Android",
+        "icon": "https://logo.clearbit.com/modyolo.com",
+        "url": "https://modyolo.com/"
+      }
+    ]
+  }
+]
